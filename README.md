@@ -1,5 +1,5 @@
 # SAHS-Dashboard
-HTML-CSS-Javascript Dashboard for Gemastik 2022 
+HTML-CSS-Javascript Dashboard Prototype for Gemastik 2022 
 
 Tampilan Dashboard
 
